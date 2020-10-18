@@ -14,7 +14,7 @@ package filetest;
  */
 public class Filetest {
     
-    //FILETEST
+    
 
     /**
      * @param args the command line arguments
